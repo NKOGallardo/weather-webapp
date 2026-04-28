@@ -1,4 +1,5 @@
 # 🌦️ SkyCast: Real-Time Weather App
+* ** STILL IN PROGRESS
 
 A sleek, responsive weather application that provides real-time meteorological data for any city in the world. Built with modern web technologies and powered by the **OpenWeatherMap API**.
 
