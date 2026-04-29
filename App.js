@@ -1,0 +1,1 @@
+// ill use the fect req here to get the data from the api and then display it on the page
