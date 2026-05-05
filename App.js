@@ -1,6 +1,10 @@
+// await always goes with async
 
 async function getWeather() {
 
+    // display on city
+    // apikey from openweathermap
+    // communicating with http
     const city = document.getElementById("city").value;
     const apiKey = "950302f62873de971a894bf2df4ec176";
     const url = `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${apiKey}&units=metric`;
@@ -15,6 +19,7 @@ async function getWeather() {
             return;
         }
 
+        // desplay data if input is there
         const temp = data.main.temp;
         const weather = data.weather[0].description;
 
