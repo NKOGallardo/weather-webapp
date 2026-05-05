@@ -15,10 +15,10 @@ A sleek, responsive weather application that provides real-time meteorological d
 ---
 
 ## 🛠️ Tech Stack
-* **Frontend:** React.js / Vue.js / Vanilla JS
-* **Styling:** Tailwind CSS / CSS3
+* **Frontend:** HTML / JS  
+* **Styling:**  CSS3
 * **API:** [OpenWeatherMap API](https://openweathermap.org/api)
-* **HTTP Client:** Axios / Fetch API
+* **HTTP Client:** Fetch API
 
 ---
 
@@ -34,6 +34,6 @@ You will need an API key from OpenWeatherMap.
 Clone the repository and install the dependencies:
 
 ```bash
-git clone [https://github.com/your-username/weather-app.git](https://github.com/your-username/weather-app.git)
+git clone https://github.com/NKOGallardo/weather-webapp.git
 cd weather-app
 npm install
